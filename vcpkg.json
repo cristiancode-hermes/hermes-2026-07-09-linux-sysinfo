@@ -1,0 +1,16 @@
+{
+  "name": "linux-sysinfo",
+  "version": "1.0.0",
+  "description": "Linux system information tool - proc, sysfs, mmap, ioctl",
+  "homepage": "https://github.com/cristiancode-hermes/hermes-2026-07-09-linux-sysinfo",
+  "dependencies": [
+    {
+      "name": "nlohmann-json",
+      "version>=": "3.11.3"
+    },
+    {
+      "name": "spdlog",
+      "version>=": "1.15.1"
+    }
+  ]
+}
